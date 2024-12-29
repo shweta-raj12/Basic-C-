@@ -1,2 +1,2 @@
-# Basic-C-
+# Basic-C++
 List of Basic C++ programs 
