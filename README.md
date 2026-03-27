@@ -10,6 +10,7 @@ int main() {
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
+EXPLANATION OF THE STRUCTURE OF C LANGUAGE BASIC SYNTAX 
 
 • #include <iostream>: This header file library enables input/output operations.
 • int main(): This is the main function where the program's execution begins.
@@ -35,3 +36,4 @@ Object-Oriented Programming (OOP): Using classes and objects to model real-world
 
 Standard Template Library (STL): Utilizing built-in collections of classes and functions, such as vector, map, and algorithm, for data structures and algorithms. 
 
+THIS REPOSITORY IS JUST MY LEARNING BOOK OF ALK THE PROGRAMS THAT I HAVE LEARNT TILL NOW IN C PROGRAMMING LANGUAGE 
